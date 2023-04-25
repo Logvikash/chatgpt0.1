@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "64477fd27b1170e893344ff1",
+    "question": "what is main file",
+    "answer": "The main file is the primary file in a program, which typically contains the main function and serves as the entry point for the application. It is also known as the driver or source file and is responsible for linking and executing other modules or files in the program.",
+    "__v": 0
+  },
+  {
+    "_id": "64478097a5a4f393969b9121",
+    "question": "google",
+    "answer": "Google is an American multinational technology company that specializes in internet-related services and products. It was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University. Google's primary product is its search engine, which is used by billions of people around the world every day. The company also offers a variety of other services, including email, cloud storage, online advertising, video sharing, and mobile operating systems. Google is one of the largest companies in the world by market capitalization and has a significant impact on many aspects of modern life.",
+    "__v": 0
+  }
+]
